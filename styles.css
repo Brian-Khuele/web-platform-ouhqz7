@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 24px;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+.grid {
+  border: 1px solid lightgrey;
+}
+
+.item {
+  border: 1px solid red;
+}
